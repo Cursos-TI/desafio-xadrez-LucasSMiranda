@@ -6,6 +6,12 @@
 
 int main() {
     // Nível Novato - Movimentação das Peças
+    //Mover a torre 5 casas para a direita
+    for (int i = 0; i < 5; i++ {
+        printf("Direita\n;");//imprime a direção do movimento
+    })
+
+
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
 
     // Implementação de Movimentação do Bispo
